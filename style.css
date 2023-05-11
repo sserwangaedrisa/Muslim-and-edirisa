@@ -1,0 +1,12 @@
+#image{
+    display: block;
+    width: 100%;
+    margin: auto;
+}
+
+#title{
+    margin: auto;
+    align-items: center;
+    align-content: center;
+    padding-left: 38%;
+}
